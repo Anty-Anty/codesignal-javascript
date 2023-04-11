@@ -5,5 +5,3 @@ function solution(nCols, nRows, col, row) {
     let resultCols = nCols - col +1;
     return resultRow * resultCols
 }
-
-solution(16, 11, 5, 3)
