@@ -1,5 +1,4 @@
-# code-challenges
-# codesignal 
-# javascript
+# CodeSignal - javascript
 
+Code-challenges
 This repository includes my solutions for the arcade challenges in CodeSignal. All of them are fully functional. However, any recommendations for optimisation are welcome!
